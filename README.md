@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unwissenheit&label=Profile%20views&color=0e75b6&style=flat" alt="unwissenheit" />
-  <img src="https://img.shields.io/github/followers/unwissenheit?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=takibito&label=Profile%20views&color=0e75b6&style=flat" alt="takibito" />
+  <img src="https://img.shields.io/github/followers/takibito?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://img.shields.io/github/followers/unwissenheit?label=Followers&style=for-the-badge&logo=github&color=0e75b6" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/unwissenheit&label=Public%20Repos&query=public_repos&style=for-the-badge&logo=github&color=2E9EF7" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/unwissenheit&label=Following&query=following&style=for-the-badge&logo=github&color=2E9EF7" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/takibito?label=Followers&style=for-the-badge&logo=github&color=0e75b6" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/takibito&label=Public%20Repos&query=public_repos&style=for-the-badge&logo=github&color=2E9EF7" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/takibito&label=Following&query=following&style=for-the-badge&logo=github&color=2E9EF7" /> </p>
 
 ---
 
